@@ -1,4 +1,4 @@
-def function (numero):
+def function (numero)!!ñññño!!:
   print numero
   if numero==0:
     return 1
